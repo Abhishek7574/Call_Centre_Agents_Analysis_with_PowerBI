@@ -4,7 +4,8 @@
 
 For a static version of the Power BI dashboard, you can view and download the PDF file:
 
-Link to Static Power BI Dashboard (PDF)
+- [Link to Static Power BI Dashboard (PDF)](https://github.com/Abhishek7574/Call_Centre_Agents_Analysis_with_PowerBI/blob/ccf9f24937b2f087e934c25f15af02ce735e4d1c/agent%20performance.pdf)
+
 
 ## Overview
 This repository contains a comprehensive Call Center Performance Dashboard created in Power BI for analyzing key performance indicators (KPIs) and metrics related to remote work tasks on the Forge platform. The dashboard aims to provide insights into call abandonment rates, overall customer satisfaction, and agent performance based on various metrics.
