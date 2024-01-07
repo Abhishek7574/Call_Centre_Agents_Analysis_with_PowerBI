@@ -10,20 +10,22 @@ For a static version of the Power BI dashboard, you can view and download the PD
 ## Overview
 This repository contains a comprehensive Call Center Performance Dashboard created in Power BI for analyzing key performance indicators (KPIs) and metrics related to remote work tasks on the Forge platform. The dashboard aims to provide insights into call abandonment rates, overall customer satisfaction, and agent performance based on various metrics.
 
-## Repository Organization
-The repository is organized as follows:
+## Problem Resolution Section
+In this section, the dashboard addresses key problem resolution metrics, including:
 
-**Data Source:**
-The dataset obtained from the Forge platform is stored in a file named 01_Call-Center-Dataset.xlsx.
+**Overall Customer Satisfaction:** Visualize customer satisfaction metrics to gauge overall customer experience.
 
-**Power BI Dashboard (Dynamic):**
-The Power BI file containing the interactive and dynamic dashboard is named agent_performance.pbix.
+**Overall Calls Answered/Abandoned:** Track the volume of calls answered and abandoned to optimize call center resources.
 
-**Power BI Dashboard (Static):**
-A static version of the Power BI dashboard is available in PDF format (agent_performance.pdf).
+**Calls by Time:** Analyze call patterns and volumes throughout different times of the day.
 
-**README.md:**
-The main README file providing an overview of the project, dataset details, and instructions.
+**Average Speed of Answer:** Evaluate the efficiency of call handling by monitoring the average speed of answering.
+
+**Average Talk Duration:** Understand the average duration of agent-customer interactions.
+
+**Satisfaction Rate:** Monitor and analyze customer satisfaction rates.
+
+**Agent’s Performance Quadrant:** Examine the agent's performance quadrant by comparing average handle time (talk duration) vs. calls answered.
 
 ## Data Source
 The dataset (01_Call-Center-Dataset.xlsx) includes relevant information related to call center performance, capturing details such as:
@@ -57,22 +59,19 @@ Average talk duration and satisfaction rate metrics.
 
 Agent-specific performance metrics, allowing for individual performance analysis.
 
-Link to Dynamic Power BI Dashboard
+- [Link to Dynamic Power BI Dashboard (PBIX)](https://github.com/Abhishek7574/Call_Centre_Agents_Analysis_with_PowerBI/blob/c4f5bc78aa048c513054671c559dbfa0de9fe9f3/agent%20performance.pbix)
 
-## Problem Resolution Section
-In this section, the dashboard addresses key problem resolution metrics, including:
+## Repository Organization
+The repository is organized as follows:
 
-**Overall Customer Satisfaction:** Visualize customer satisfaction metrics to gauge overall customer experience.
+**Data Source:**
+The dataset obtained from the Forge platform is stored in a file named 01_Call-Center-Dataset.xlsx.
 
-**Overall Calls Answered/Abandoned:** Track the volume of calls answered and abandoned to optimize call center resources.
+**Power BI Dashboard (Dynamic):**
+The Power BI file containing the interactive and dynamic dashboard is named agent_performance.pbix.
 
-**Calls by Time:** Analyze call patterns and volumes throughout different times of the day.
+**Power BI Dashboard (Static):**
+A static version of the Power BI dashboard is available in PDF format (agent_performance.pdf).
 
-**Average Speed of Answer:** Evaluate the efficiency of call handling by monitoring the average speed of answering.
-
-**Average Talk Duration:** Understand the average duration of agent-customer interactions.
-
-**Satisfaction Rate:** Monitor and analyze customer satisfaction rates.
-
-**Agent’s Performance Quadrant:** Examine the agent's performance quadrant by comparing average handle time (talk duration) vs. calls answered.
-
+**README.md:**
+The main README file providing an overview of the project, dataset details, and instructions.
