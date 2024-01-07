@@ -55,9 +55,13 @@ Other relevant fields capturing additional call details.
 Explore the interactive Power BI dashboard created to visualize various KPIs and metrics, including:
 
 Call abandonment rates over time (daily, weekly, monthly).
+
 Overall customer satisfaction ratings.
+
 Average talk duration and satisfaction rate metrics.
+
 Agent-specific performance metrics, allowing for individual performance analysis.
+
 Link to Dynamic Power BI Dashboard
 
 ## Problem Resolution Section
