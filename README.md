@@ -13,23 +13,18 @@ This repository contains a comprehensive Call Center Performance Dashboard creat
 The repository is organized as follows:
 
 **Data Source:**
-
 The dataset obtained from the Forge platform is stored in a file named 01_Call-Center-Dataset.xlsx.
 
 **Power BI Dashboard (Dynamic):**
-
 The Power BI file containing the interactive and dynamic dashboard is named agent_performance.pbix.
 
 **Power BI Dashboard (Static):**
-
 A static version of the Power BI dashboard is available in PDF format (agent_performance.pdf).
 
 **README.md:**
-
 The main README file providing an overview of the project, dataset details, and instructions.
 
 ## Data Source
-
 The dataset (01_Call-Center-Dataset.xlsx) includes relevant information related to call center performance, capturing details such as:
 
 **Agent Name:** The name of the agent handling the call.
@@ -51,7 +46,6 @@ The dataset (01_Call-Center-Dataset.xlsx) includes relevant information related 
 Other relevant fields capturing additional call details.
 
 ## Power BI Dashboard (Dynamic)
-
 Explore the interactive Power BI dashboard created to visualize various KPIs and metrics, including:
 
 Call abandonment rates over time (daily, weekly, monthly).
@@ -65,7 +59,6 @@ Agent-specific performance metrics, allowing for individual performance analysis
 Link to Dynamic Power BI Dashboard
 
 ## Problem Resolution Section
-
 In this section, the dashboard addresses key problem resolution metrics, including:
 
 **Overall Customer Satisfaction:** Visualize customer satisfaction metrics to gauge overall customer experience.
